@@ -1,0 +1,5 @@
+﻿  FileBackup.cpp
+  FileManager.cpp
+C:\Users\YakshPatel\Desktop\FileBackup - Yaksh Patel\FileBackup\FileBackup\FileManager.cpp(82,64): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  FileBackup.vcxproj -> C:\Users\YakshPatel\Desktop\FileBackup - Yaksh Patel\FileBackup\Debug\FileBackup.exe
